@@ -8,7 +8,6 @@ ___
 ## 🥇 성과
 
 ### 최종 순위 11위 달성  
-(이미지는 서버 정상화 후 갱신하겠습니다.)  
 <img alt="ranking" src="./img/IMG_Ranking.png"  width="80%" height="50%"> ([link](http://boostcamp.stages.ai/competitions/1/leaderboard))  
 
 ### 각종 토론 글 작성
